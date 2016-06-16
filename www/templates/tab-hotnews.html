@@ -1,0 +1,42 @@
+<ion-view view-title="热点">
+    <ion-content>
+        <!-- <ion-list>
+           <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="chat in chats" type="item-text-wrap" href="#/tab/chats/{{chat.id}}">
+             <img ng-src="{{chat.face}}">
+             <h2>{{chat.name}}11111111111111111111111111111111111111111111111111111111111111111</h2>
+             <p>{{chat.lastText}}</p>
+             <i class="icon ion-chevron-right icon-accessory"></i>
+
+             <ion-option-button class="button-assertive" ng-click="remove(chat)">
+               Delete
+             </ion-option-button>
+           </ion-item>
+         </ion-list>-->
+        <ul class="list">
+            <li class="item {{imgclass}}" ng-repeat="newdata in newsdata">
+                <img src="{{newdata.imgurl}}">
+                <h2>{{newdata.title}}</h2>
+                <p>{{newdata.source}}</p>
+            </li>
+            <!--<li class="item">
+              <img src="">
+              <h2>国务院常务会议部署推进公司注册资本登记制度改革</h2>
+              <p>中国青年报</p>
+            </li>
+            <li class="item item-thumbnail-left">
+              <img src="img/album-bb.jpg">
+              <h2>大黄鸭在北京两个月创收超两亿元 今日离京</h2>
+              <p>中国经营报</p>
+            </li>
+            <li class="item">
+              <h2>LinkedIn创始人：在见风投之前，我希望自己当时懂得这七件事...</h2>
+              <p>虎嗅网</p>
+            </li>
+            <li class="item item-thumbnail-left">
+              <img src="img/album-bk.jpg">
+              <h2>美国男子为防妻分家产 将价值50万美元黄金扔垃圾桶</h2>
+              <p>新浪新闻</p>
+            </li>-->
+        </ul>
+    </ion-content>
+</ion-view>

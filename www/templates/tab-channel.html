@@ -1,0 +1,26 @@
+<ion-view view-title="频道">
+    <ion-content class="padding" style="padding: 0px">
+        <ion-slide-box does-continue="true" show-pager="true" auto-play="true" on-slide-changed="go_changed(index)" active-slide="index" pager-click="go(index)">
+            <ion-slide>
+                <img src="img/6.jpg">
+            </ion-slide>
+            <ion-slide>
+                <img src="img/7.jpg">
+            </ion-slide>
+            <!--<ion-slide>
+              <img src="img/8.jpg">
+            </ion-slide>-->
+            <ion-slide>
+                <img src="img/9.jpg">
+            </ion-slide>
+        </ion-slide-box>
+
+        <div class="" style="padding-top: 0px">
+            <div ng-repeat="chanel in chanels" class="h-100 border{{$index+1}}" style="color: {{chanel.color}};float:left;width:33.33%;" ng-click="clickType('{{chanel.id}}')">
+                <div class="{{chanel.icon}} fs-30 pt-25"></div>
+                <p class="{{chanel.pclass}}">{{chanel.name}}</p>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
+

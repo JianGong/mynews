@@ -1,0 +1,59 @@
+{
+  "data":[
+    {
+      "id": "1",
+      "name": "微博",
+      "icon": "Hui-iconfont Hui-iconfont-share-weibo",
+      "color":"#000",
+      "pclass":"pt-15"
+    },
+    {
+      "id": "2",
+      "name": "知乎",
+      "icon": "Hui-iconfont Hui-iconfont-share-zhihu",
+      "color":"#000",
+      "pclass":"pt-15"
+    },
+    {
+      "id": "3",
+      "name": "豆瓣",
+      "icon": "Hui-iconfont Hui-iconfont-share-douban",
+      "color":"#000",
+      "pclass":"pt-15"
+    },
+    {
+      "id": "4",
+      "name": "人人",
+      "icon": "Hui-iconfont Hui-iconfont-share-renren",
+      "color":"#000",
+      "pclass":"pt-15"
+    },{
+      "id": "5",
+      "name": "Google",
+      "icon": "ion-social-google-outline",
+      "color":"#000",
+      "pclass":""
+    },
+    {
+      "id": "6",
+      "name": "Facebook",
+      "icon": "ion-social-facebook",
+      "color":"#000",
+      "pclass":""
+    },
+    {
+      "id": "7",
+      "name": "Twitter",
+      "icon": "ion-social-twitter",
+      "color":"#000",
+      "pclass":""
+    },
+    {
+      "id": "8",
+      "name": "添加更多",
+      "icon": "Hui-iconfont Hui-iconfont-add",
+      "color":"#000",
+      "pclass":"pt-15"
+    }
+  ]
+}
