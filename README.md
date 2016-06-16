@@ -94,7 +94,10 @@
                 
 ###  三、Android效果
 
-          1.
+          ![](https://github.com/laijunlinfz/mynews/blob/master/www/img/01.png)
+          ![](http://firimg.fir.im/f4c946f7122db0fb04fd5a249c8ce1679411b02b?imageView2/0/w/300/h/197)
+          ![](http://firimg.fir.im/57dfa3d75a9812d55d07b6239941145fc668da7c?imageView2/0/w/300/h/197)
+          ![](http://firimg.fir.im/bbd98e7fa29227f8a955bad34ea950eebeed3bfa?imageView2/0/w/300/h/197)
 
 
 
