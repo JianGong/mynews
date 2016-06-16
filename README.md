@@ -93,11 +93,9 @@
                      weibo.html
                 
 ###  三、Android效果
-![频道](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a1.png)
-
-![热点](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a2.png)
-
-![账号](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a3.png)
+&nbsp;![频道](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a1.png)
+&nbsp;![热点](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a2.png)
+&nbsp;![账号](https://raw.githubusercontent.com/laijunlinfz/mynews/master/www/img/appimg/a3.png)
 
 
 
