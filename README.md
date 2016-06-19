@@ -11,7 +11,7 @@
         2.安装ionic
           npm install -g ionic
         3.下载工程
-          git clone ...
+          git clone https://github.com/laijunlinfz/mynews.git
         4.安装依赖库
           npm install
         5.Android 创建安装运行
